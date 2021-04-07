@@ -1,3 +1,3 @@
 # InvestmentComparisons
 
-Just tossing some data around, nothing too fancy. Used pandas and PIL libraries.
+Just tossing some data around, nothing too fancy. Used pandas and matplotlib libraries.
